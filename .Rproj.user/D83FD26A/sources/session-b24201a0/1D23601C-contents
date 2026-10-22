@@ -1,0 +1,81 @@
+---
+title: "Advanced Mid → Advanced High"
+output:
+  html_document:
+    self_contained: true
+    theme: null
+---
+
+<style>
+
+:root {
+  --blue: #355C8A;
+  --ink: #2b3035;
+  --muted: #69737c;
+  --line: #e1e5e8;
+  --bg: #f7f8fa;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-container {
+  width: 100% !important;
+  max-width: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.page {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 8vh 7vw;
+}
+
+h1 {
+  color: var(--blue);
+  font-size: 2.7rem;
+}
+
+.card {
+  display: block;
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 24px;
+  text-decoration: none !important;
+  color: inherit !important;
+  margin-top: 28px;
+}
+
+.card h2 {
+  color: var(--blue);
+  margin-top: 0;
+}
+
+.card p {
+  color: var(--muted);
+  line-height: 1.5;
+  margin-bottom: 0;
+}
+
+</style>
+
+<div class="page">
+
+# Advanced Mid → Advanced High
+
+<a class="card" href="advanced_mid_to_high.html">
+
+## Practice
+
+Grammar, cohesion, complex sentence structure, qualification, synthesis, hypothesis, and repair.
+
+</a>
+
+</div>
