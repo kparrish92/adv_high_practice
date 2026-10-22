@@ -1,0 +1,1626 @@
+{
+  "main_items": [
+    {
+      "target_id": "T001",
+      "category": "BUILDING A PARAGRAPH",
+      "category_label": "Cohesion",
+      "english": "First, the program is useful.",
+      "spanish": "Primero, el programa es útil.",
+      "spanish_spans": "Primero",
+      "target_label_en": "first",
+      "target_label_es": "primero",
+      "target_type": "cohesion"
+    },
+    {
+      "target_id": "T002",
+      "category": "BUILDING A PARAGRAPH",
+      "category_label": "Cohesion",
+      "english": "In addition, it is flexible.",
+      "spanish": "Además, es flexible.",
+      "spanish_spans": "Además",
+      "target_label_en": "moreover / in addition",
+      "target_label_es": "además",
+      "target_type": "cohesion"
+    },
+    {
+      "target_id": "T003",
+      "category": "BUILDING A PARAGRAPH",
+      "category_label": "Cohesion",
+      "english": "However, it is expensive.",
+      "spanish": "Sin embargo, es caro.",
+      "spanish_spans": "Sin embargo",
+      "target_label_en": "however",
+      "target_label_es": "sin embargo",
+      "target_type": "cohesion"
+    },
+    {
+      "target_id": "T004",
+      "category": "BUILDING A PARAGRAPH",
+      "category_label": "Cohesion",
+      "english": "Because of that, some students do not participate.",
+      "spanish": "Por eso, algunos estudiantes no participan.",
+      "spanish_spans": "Por eso",
+      "target_label_en": "because of that / so",
+      "target_label_es": "por eso",
+      "target_type": "cohesion"
+    },
+    {
+      "target_id": "T005",
+      "category": "BUILDING A PARAGRAPH",
+      "category_label": "Cohesion",
+      "english": "Therefore, the university should consider other options.",
+      "spanish": "Por lo tanto, la universidad debería considerar otras opciones.",
+      "spanish_spans": "Por lo tanto",
+      "target_label_en": "therefore",
+      "target_label_es": "por lo tanto",
+      "target_type": "cohesion"
+    },
+    {
+      "target_id": "T006",
+      "category": "BUILDING A PARAGRAPH",
+      "category_label": "Cohesion",
+      "english": "In other words, the problem is not the program itself.",
+      "spanish": "En otras palabras, el problema no es el programa en sí.",
+      "spanish_spans": "En otras palabras",
+      "target_label_en": "in other words",
+      "target_label_es": "en otras palabras",
+      "target_type": "cohesion"
+    },
+    {
+      "target_id": "T007",
+      "category": "NARRATING ACROSS TIME FRAMES",
+      "category_label": "Time frames",
+      "english": "At first, I thought the job would be easy.",
+      "spanish": "Al principio, pensaba que el trabajo sería fácil.",
+      "spanish_spans": "Al principio",
+      "target_label_en": "at first",
+      "target_label_es": "al principio",
+      "target_type": "time_frame"
+    },
+    {
+      "target_id": "T008",
+      "category": "NARRATING ACROSS TIME FRAMES",
+      "category_label": "Time frames",
+      "english": "At that moment, I did not know what to do.",
+      "spanish": "En aquel momento, no sabía qué hacer.",
+      "spanish_spans": "En aquel momento",
+      "target_label_en": "at that moment",
+      "target_label_es": "en aquel momento",
+      "target_type": "time_frame"
+    },
+    {
+      "target_id": "T009",
+      "category": "NARRATING ACROSS TIME FRAMES",
+      "category_label": "Time frames",
+      "english": "Since then, I have approached the problem differently.",
+      "spanish": "Desde entonces, he abordado el problema de otra manera.",
+      "spanish_spans": "Desde entonces",
+      "target_label_en": "since then",
+      "target_label_es": "desde entonces",
+      "target_type": "time_frame"
+    },
+    {
+      "target_id": "T010",
+      "category": "NARRATING ACROSS TIME FRAMES",
+      "category_label": "Time frames",
+      "english": "Over time, I learned to anticipate those problems.",
+      "spanish": "Con el tiempo, aprendí a anticipar esos problemas.",
+      "spanish_spans": "Con el tiempo",
+      "target_label_en": "over time",
+      "target_label_es": "con el tiempo",
+      "target_type": "time_frame"
+    },
+    {
+      "target_id": "T011",
+      "category": "NARRATING ACROSS TIME FRAMES",
+      "category_label": "Time frames",
+      "english": "From now on, I am going to ask for more information beforehand.",
+      "spanish": "A partir de ahora, voy a pedir más información de antemano.",
+      "spanish_spans": "A partir de ahora",
+      "target_label_en": "from now on",
+      "target_label_es": "a partir de ahora",
+      "target_type": "time_frame"
+    },
+    {
+      "target_id": "T012",
+      "category": "NARRATING ACROSS TIME FRAMES",
+      "category_label": "Time frames",
+      "english": "Later on, I would like to take on more responsibility.",
+      "spanish": "Más adelante, me gustaría asumir más responsabilidad.",
+      "spanish_spans": "Más adelante",
+      "target_label_en": "later on",
+      "target_label_es": "más adelante",
+      "target_type": "time_frame"
+    },
+    {
+      "target_id": "T013",
+      "category": "PRECISION + CIRCUMLOCUTION",
+      "category_label": "Precision & circumlocution",
+      "english": "I mean the process, not the result.",
+      "spanish": "Me refiero al proceso, no al resultado.",
+      "spanish_spans": "Me refiero al",
+      "target_label_en": "I mean…",
+      "target_label_es": "me refiero a…",
+      "target_type": "circumlocution"
+    },
+    {
+      "target_id": "T014",
+      "category": "PRECISION + CIRCUMLOCUTION",
+      "category_label": "Precision & circumlocution",
+      "english": "It is a kind of digital tool.",
+      "spanish": "Es una especie de herramienta digital.",
+      "spanish_spans": "Es una especie de",
+      "target_label_en": "it is a kind of…",
+      "target_label_es": "es una especie de…",
+      "target_type": "circumlocution"
+    },
+    {
+      "target_id": "T015",
+      "category": "PRECISION + CIRCUMLOCUTION",
+      "category_label": "Precision & circumlocution",
+      "english": "It is used to organize information.",
+      "spanish": "Sirve para organizar información.",
+      "spanish_spans": "Sirve para",
+      "target_label_en": "it is used for…",
+      "target_label_es": "sirve para…",
+      "target_type": "circumlocution"
+    },
+    {
+      "target_id": "T016",
+      "category": "PRECISION + CIRCUMLOCUTION",
+      "category_label": "Precision & circumlocution",
+      "english": "It involves a system that allows people to share files.",
+      "spanish": "Se trata de un sistema que permite compartir archivos.",
+      "spanish_spans": "Se trata de",
+      "target_label_en": "it is about / it involves…",
+      "target_label_es": "se trata de…",
+      "target_type": "circumlocution"
+    },
+    {
+      "target_id": "T017",
+      "category": "PRECISION + CIRCUMLOCUTION",
+      "category_label": "Precision & circumlocution",
+      "english": "What I mean is that access is limited.",
+      "spanish": "Lo que quiero decir es que el acceso es limitado.",
+      "spanish_spans": "Lo que quiero decir es",
+      "target_label_en": "what I mean is…",
+      "target_label_es": "lo que quiero decir es…",
+      "target_type": "circumlocution"
+    },
+    {
+      "target_id": "T018",
+      "category": "PRECISION + CIRCUMLOCUTION",
+      "category_label": "Precision & circumlocution",
+      "english": "More specifically, the problem affects students who work full time.",
+      "spanish": "Más concretamente, el problema afecta a los estudiantes que trabajan a tiempo completo.",
+      "spanish_spans": "Más concretamente",
+      "target_label_en": "more specifically",
+      "target_label_es": "más concretamente",
+      "target_type": "circumlocution"
+    },
+    {
+      "target_id": "T019",
+      "category": "EXPLAINING CAUSES + CONSEQUENCES",
+      "category_label": "Cause & consequence",
+      "english": "The change occurred due to higher costs.",
+      "spanish": "El cambio ocurrió debido al aumento de los costos.",
+      "spanish_spans": "debido a",
+      "target_label_en": "due to",
+      "target_label_es": "debido a",
+      "target_type": "cause_effect"
+    },
+    {
+      "target_id": "T020",
+      "category": "EXPLAINING CAUSES + CONSEQUENCES",
+      "category_label": "Cause & consequence",
+      "english": "The event was canceled because of the weather.",
+      "spanish": "El evento se canceló a causa del clima.",
+      "spanish_spans": "a causa de",
+      "target_label_en": "because of",
+      "target_label_es": "a causa de",
+      "target_type": "cause_effect"
+    },
+    {
+      "target_id": "T021",
+      "category": "EXPLAINING CAUSES + CONSEQUENCES",
+      "category_label": "Cause & consequence",
+      "english": "This is due to a lack of resources.",
+      "spanish": "Esto se debe a la falta de recursos.",
+      "spanish_spans": "Esto se debe a",
+      "target_label_en": "this is due to",
+      "target_label_es": "esto se debe a",
+      "target_type": "cause_effect"
+    },
+    {
+      "target_id": "T022",
+      "category": "EXPLAINING CAUSES + CONSEQUENCES",
+      "category_label": "Cause & consequence",
+      "english": "As a consequence, fewer people participated.",
+      "spanish": "Como consecuencia, participó menos gente.",
+      "spanish_spans": "Como consecuencia",
+      "target_label_en": "as a consequence",
+      "target_label_es": "como consecuencia",
+      "target_type": "cause_effect"
+    },
+    {
+      "target_id": "T023",
+      "category": "EXPLAINING CAUSES + CONSEQUENCES",
+      "category_label": "Cause & consequence",
+      "english": "Consequently, the organization changed its strategy.",
+      "spanish": "Por consiguiente, la organización cambió su estrategia.",
+      "spanish_spans": "Por consiguiente",
+      "target_label_en": "consequently",
+      "target_label_es": "por consiguiente",
+      "target_type": "cause_effect"
+    },
+    {
+      "target_id": "T024",
+      "category": "EXPLAINING CAUSES + CONSEQUENCES",
+      "category_label": "Cause & consequence",
+      "english": "A lack of planning can lead to unnecessary problems.",
+      "spanish": "La falta de planificación puede llevar a problemas innecesarios.",
+      "spanish_spans": "llevar a",
+      "target_label_en": "to lead to",
+      "target_label_es": "llevar a",
+      "target_type": "cause_effect"
+    },
+    {
+      "target_id": "T025",
+      "category": "CONTRAST + CONCESSION",
+      "category_label": "Contrast & concession",
+      "english": "Although the system is useful, it is difficult to use.",
+      "spanish": "Aunque el sistema es útil, es difícil de usar.",
+      "spanish_spans": "Aunque",
+      "target_label_en": "although / even though",
+      "target_label_es": "aunque",
+      "target_type": "contrast_concession"
+    },
+    {
+      "target_id": "T026",
+      "category": "CONTRAST + CONCESSION",
+      "category_label": "Contrast & concession",
+      "english": "It is expensive; even so, many people use it.",
+      "spanish": "Es caro; aun así, mucha gente lo usa.",
+      "spanish_spans": "aun así",
+      "target_label_en": "even so",
+      "target_label_es": "aun así",
+      "target_type": "contrast_concession"
+    },
+    {
+      "target_id": "T027",
+      "category": "CONTRAST + CONCESSION",
+      "category_label": "Contrast & concession",
+      "english": "The first option is cheaper, whereas the second is more flexible.",
+      "spanish": "La primera opción es más barata, mientras que la segunda es más flexible.",
+      "spanish_spans": "mientras que",
+      "target_label_en": "whereas",
+      "target_label_es": "mientras que",
+      "target_type": "contrast_concession"
+    },
+    {
+      "target_id": "T028",
+      "category": "CONTRAST + CONCESSION",
+      "category_label": "Contrast & concession",
+      "english": "Some people prefer to work from home; by contrast, others prefer the office.",
+      "spanish": "Algunas personas prefieren trabajar desde casa; en cambio, otras prefieren la oficina.",
+      "spanish_spans": "en cambio",
+      "target_label_en": "by contrast",
+      "target_label_es": "en cambio",
+      "target_type": "contrast_concession"
+    },
+    {
+      "target_id": "T029",
+      "category": "CONTRAST + CONCESSION",
+      "category_label": "Contrast & concession",
+      "english": "On one hand, the change saves time.",
+      "spanish": "Por un lado, el cambio ahorra tiempo.",
+      "spanish_spans": "Por un lado",
+      "target_label_en": "on one hand… on the other…",
+      "target_label_es": "por un lado… por otro lado…",
+      "target_type": "contrast_concession"
+    },
+    {
+      "target_id": "T030",
+      "category": "CONTRAST + CONCESSION",
+      "category_label": "Contrast & concession",
+      "english": "The policy affects not only employees but also their families.",
+      "spanish": "La política afecta no solo a los empleados, sino también a sus familias.",
+      "spanish_spans": "no solo|sino también",
+      "target_label_en": "not only… but also…",
+      "target_label_es": "no solo… sino también…",
+      "target_type": "contrast_concession"
+    },
+    {
+      "target_id": "T031",
+      "category": "ADDING DETAIL INSIDE A SENTENCE",
+      "category_label": "Complex sentences",
+      "english": "The program that we use is flexible.",
+      "spanish": "El programa que usamos es flexible.",
+      "spanish_spans": "que",
+      "target_label_en": "that / which / who",
+      "target_label_es": "que",
+      "target_type": "relative_clause"
+    },
+    {
+      "target_id": "T032",
+      "category": "ADDING DETAIL INSIDE A SENTENCE",
+      "category_label": "Complex sentences",
+      "english": "The city where I grew up has changed a lot.",
+      "spanish": "La ciudad donde crecí ha cambiado mucho.",
+      "spanish_spans": "donde",
+      "target_label_en": "where",
+      "target_label_es": "donde",
+      "target_type": "relative_clause"
+    },
+    {
+      "target_id": "T033",
+      "category": "ADDING DETAIL INSIDE A SENTENCE",
+      "category_label": "Complex sentences",
+      "english": "Those who need help can request it online.",
+      "spanish": "Quienes necesitan ayuda pueden solicitarla por internet.",
+      "spanish_spans": "Quienes",
+      "target_label_en": "those who / who (plural people)",
+      "target_label_es": "quienes",
+      "target_type": "relative_clause"
+    },
+    {
+      "target_id": "T034",
+      "category": "ADDING DETAIL INSIDE A SENTENCE",
+      "category_label": "Complex sentences",
+      "english": "What worries me is the cost.",
+      "spanish": "Lo que me preocupa es el costo.",
+      "spanish_spans": "Lo que",
+      "target_label_en": "what / that which",
+      "target_label_es": "lo que",
+      "target_type": "relative_clause"
+    },
+    {
+      "target_id": "T035",
+      "category": "ADDING DETAIL INSIDE A SENTENCE",
+      "category_label": "Complex sentences",
+      "english": "The cost increased again, which created another problem.",
+      "spanish": "El costo volvió a aumentar, lo cual creó otro problema.",
+      "spanish_spans": "lo cual",
+      "target_label_en": "which / and this",
+      "target_label_es": "lo cual",
+      "target_type": "relative_clause"
+    },
+    {
+      "target_id": "T036",
+      "category": "ADDING DETAIL INSIDE A SENTENCE",
+      "category_label": "Complex sentences",
+      "english": "The proposal, whose main goal is to reduce costs, could help some families, which would be an important change.",
+      "spanish": "La propuesta, cuyo objetivo principal es reducir los costos, podría ayudar a algunas familias, lo cual sería un cambio importante.",
+      "spanish_spans": "cuyo",
+      "target_label_en": "whose",
+      "target_label_es": "cuyo/a",
+      "target_type": "relative_clause"
+    },
+    {
+      "target_id": "T037",
+      "category": "GENERALIZING BEYOND PERSONAL EXPERIENCE",
+      "category_label": "Generalization",
+      "english": "One can see the difference clearly.",
+      "spanish": "Se puede ver la diferencia claramente.",
+      "spanish_spans": "Se puede",
+      "target_label_en": "one can / it is possible to",
+      "target_label_es": "se puede",
+      "target_type": "generalization"
+    },
+    {
+      "target_id": "T038",
+      "category": "GENERALIZING BEYOND PERSONAL EXPERIENCE",
+      "category_label": "Generalization",
+      "english": "People tend to use the service in the morning.",
+      "spanish": "Se suele usar el servicio por la mañana.",
+      "spanish_spans": "Se suele",
+      "target_label_en": "people tend to / it is customary to",
+      "target_label_es": "se suele",
+      "target_type": "generalization"
+    },
+    {
+      "target_id": "T039",
+      "category": "GENERALIZING BEYOND PERSONAL EXPERIENCE",
+      "category_label": "Generalization",
+      "english": "It is considered an important resource.",
+      "spanish": "Se considera un recurso importante.",
+      "spanish_spans": "Se considera",
+      "target_label_en": "it is considered",
+      "target_label_es": "se considera",
+      "target_type": "generalization"
+    },
+    {
+      "target_id": "T040",
+      "category": "GENERALIZING BEYOND PERSONAL EXPERIENCE",
+      "category_label": "Generalization",
+      "english": "The problem tends to affect younger workers more.",
+      "spanish": "El problema tiende a afectar más a los trabajadores jóvenes.",
+      "spanish_spans": "tiende a",
+      "target_label_en": "tends to",
+      "target_label_es": "tiende a",
+      "target_type": "generalization"
+    },
+    {
+      "target_id": "T041",
+      "category": "GENERALIZING BEYOND PERSONAL EXPERIENCE",
+      "category_label": "Generalization",
+      "english": "In general, people value flexibility.",
+      "spanish": "En general, la gente valora la flexibilidad.",
+      "spanish_spans": "En general",
+      "target_label_en": "in general",
+      "target_label_es": "en general",
+      "target_type": "generalization"
+    },
+    {
+      "target_id": "T042",
+      "category": "GENERALIZING BEYOND PERSONAL EXPERIENCE",
+      "category_label": "Generalization",
+      "english": "There are those who prefer a more traditional approach.",
+      "spanish": "Hay quienes prefieren un enfoque más tradicional.",
+      "spanish_spans": "Hay quienes",
+      "target_label_en": "there are those who",
+      "target_label_es": "hay quienes",
+      "target_type": "generalization"
+    },
+    {
+      "target_id": "T043",
+      "category": "QUALIFYING A CLAIM",
+      "category_label": "Qualification",
+      "english": "From my point of view, the change is positive.",
+      "spanish": "Desde mi punto de vista, el cambio es positivo.",
+      "spanish_spans": "Desde mi punto de vista",
+      "target_label_en": "from my point of view",
+      "target_label_es": "desde mi punto de vista",
+      "target_type": "qualification"
+    },
+    {
+      "target_id": "T044",
+      "category": "QUALIFYING A CLAIM",
+      "category_label": "Qualification",
+      "english": "To a certain extent, I agree.",
+      "spanish": "Hasta cierto punto, estoy de acuerdo.",
+      "spanish_spans": "Hasta cierto punto",
+      "target_label_en": "to a certain extent",
+      "target_label_es": "hasta cierto punto",
+      "target_type": "qualification"
+    },
+    {
+      "target_id": "T045",
+      "category": "QUALIFYING A CLAIM",
+      "category_label": "Qualification",
+      "english": "The result depends largely on the context.",
+      "spanish": "El resultado depende en gran medida del contexto.",
+      "spanish_spans": "en gran medida",
+      "target_label_en": "to a large extent",
+      "target_label_es": "en gran medida",
+      "target_type": "qualification"
+    },
+    {
+      "target_id": "T046",
+      "category": "QUALIFYING A CLAIM",
+      "category_label": "Qualification",
+      "english": "More technology does not necessarily mean better communication.",
+      "spanish": "Más tecnología no significa necesariamente una mejor comunicación.",
+      "spanish_spans": "necesariamente",
+      "target_label_en": "not necessarily",
+      "target_label_es": "no necesariamente",
+      "target_type": "qualification"
+    },
+    {
+      "target_id": "T047",
+      "category": "QUALIFYING A CLAIM",
+      "category_label": "Qualification",
+      "english": "It depends on how the policy is implemented.",
+      "spanish": "Depende de cómo se implemente la política.",
+      "spanish_spans": "Depende de",
+      "target_label_en": "it depends on",
+      "target_label_es": "depende de",
+      "target_type": "qualification"
+    },
+    {
+      "target_id": "T048",
+      "category": "QUALIFYING A CLAIM",
+      "category_label": "Qualification",
+      "english": "The change will probably benefit some groups more than others.",
+      "spanish": "El cambio probablemente beneficiará más a unos grupos que a otros.",
+      "spanish_spans": "probablemente",
+      "target_label_en": "probably",
+      "target_label_es": "probablemente",
+      "target_type": "qualification"
+    },
+    {
+      "target_id": "T049",
+      "category": "REPORTING + SYNTHESIZING INFORMATION",
+      "category_label": "Reporting & synthesis",
+      "english": "According to the report, participation increased.",
+      "spanish": "Según el informe, aumentó la participación.",
+      "spanish_spans": "Según",
+      "target_label_en": "according to",
+      "target_label_es": "según",
+      "target_type": "synthesis_reporting"
+    },
+    {
+      "target_id": "T050",
+      "category": "REPORTING + SYNTHESIZING INFORMATION",
+      "category_label": "Reporting & synthesis",
+      "english": "The author points out that cost remains a problem.",
+      "spanish": "El autor señala que el costo sigue siendo un problema.",
+      "spanish_spans": "señala que",
+      "target_label_en": "points out that",
+      "target_label_es": "señala que",
+      "target_type": "synthesis_reporting"
+    },
+    {
+      "target_id": "T051",
+      "category": "REPORTING + SYNTHESIZING INFORMATION",
+      "category_label": "Reporting & synthesis",
+      "english": "The data show that the change affected the two groups differently.",
+      "spanish": "Los datos muestran que el cambio afectó de manera diferente a los dos grupos.",
+      "spanish_spans": "muestran que",
+      "target_label_en": "shows that",
+      "target_label_es": "muestra que",
+      "target_type": "synthesis_reporting"
+    },
+    {
+      "target_id": "T052",
+      "category": "REPORTING + SYNTHESIZING INFORMATION",
+      "category_label": "Reporting & synthesis",
+      "english": "The result suggests that access matters.",
+      "spanish": "El resultado sugiere que el acceso importa.",
+      "spanish_spans": "sugiere que",
+      "target_label_en": "suggests that",
+      "target_label_es": "sugiere que",
+      "target_type": "synthesis_reporting"
+    },
+    {
+      "target_id": "T053",
+      "category": "REPORTING + SYNTHESIZING INFORMATION",
+      "category_label": "Reporting & synthesis",
+      "english": "Based on these data, we can identify a general pattern.",
+      "spanish": "A partir de estos datos, se puede identificar un patrón general.",
+      "spanish_spans": "A partir de",
+      "target_label_en": "based on / from",
+      "target_label_es": "a partir de",
+      "target_type": "synthesis_reporting"
+    },
+    {
+      "target_id": "T054",
+      "category": "REPORTING + SYNTHESIZING INFORMATION",
+      "category_label": "Reporting & synthesis",
+      "english": "Put another way, the benefit was not distributed equally.",
+      "spanish": "Dicho de otro modo, el beneficio no se distribuyó de manera equitativa.",
+      "spanish_spans": "Dicho de otro modo",
+      "target_label_en": "put another way",
+      "target_label_es": "dicho de otro modo",
+      "target_type": "synthesis_reporting"
+    },
+    {
+      "target_id": "T055",
+      "category": "HYPOTHESIS + ABSTRACT ARGUMENT",
+      "category_label": "Hypothesis & argument",
+      "english": "If this trend continues, costs could increase.",
+      "spanish": "Si esta tendencia continúa, los costos podrían aumentar.",
+      "spanish_spans": "Si esta tendencia continúa",
+      "target_label_en": "if this trend continues…",
+      "target_label_es": "si esta tendencia continúa…",
+      "target_type": "hypothesis_argument"
+    },
+    {
+      "target_id": "T056",
+      "category": "HYPOTHESIS + ABSTRACT ARGUMENT",
+      "category_label": "Hypothesis & argument",
+      "english": "In theory, the policy could improve access.",
+      "spanish": "En teoría, la política podría mejorar el acceso.",
+      "spanish_spans": "En teoría",
+      "target_label_en": "in theory",
+      "target_label_es": "en teoría",
+      "target_type": "hypothesis_argument"
+    },
+    {
+      "target_id": "T057",
+      "category": "HYPOTHESIS + ABSTRACT ARGUMENT",
+      "category_label": "Hypothesis & argument",
+      "english": "If this trend continues, costs could increase.",
+      "spanish": "Si esta tendencia continúa, los costos podrían aumentar.",
+      "spanish_spans": "podría",
+      "target_label_en": "could / might",
+      "target_label_es": "podría",
+      "target_type": "hypothesis_argument"
+    },
+    {
+      "target_id": "T058",
+      "category": "HYPOTHESIS + ABSTRACT ARGUMENT",
+      "category_label": "Hypothesis & argument",
+      "english": "In the short term, the change may create difficulties.",
+      "spanish": "A corto plazo, el cambio puede crear dificultades.",
+      "spanish_spans": "A corto plazo",
+      "target_label_en": "in the short term",
+      "target_label_es": "a corto plazo",
+      "target_type": "hypothesis_argument"
+    },
+    {
+      "target_id": "T059",
+      "category": "HYPOTHESIS + ABSTRACT ARGUMENT",
+      "category_label": "Hypothesis & argument",
+      "english": "In the long term, it could produce important benefits.",
+      "spanish": "A largo plazo, podría producir beneficios importantes.",
+      "spanish_spans": "A largo plazo",
+      "target_label_en": "in the long term",
+      "target_label_es": "a largo plazo",
+      "target_type": "hypothesis_argument"
+    },
+    {
+      "target_id": "T060",
+      "category": "HYPOTHESIS + ABSTRACT ARGUMENT",
+      "category_label": "Hypothesis & argument",
+      "english": "It is not about eliminating technology but about using it more effectively.",
+      "spanish": "No se trata de eliminar la tecnología, sino de usarla de manera más eficaz.",
+      "spanish_spans": "No se trata de|sino de",
+      "target_label_en": "it is not about X, but Y",
+      "target_label_es": "no se trata de X, sino de Y",
+      "target_type": "hypothesis_argument"
+    }
+  ],
+  "review_contexts": {
+    "T001": [
+      {
+        "context_id": "T001-R1",
+        "target_id": "T001",
+        "english": "First, we need to identify the main problem.",
+        "spanish": "Primero, tenemos que identificar el problema principal.",
+        "spanish_spans": "Primero"
+      },
+      {
+        "context_id": "T001-R2",
+        "target_id": "T001",
+        "english": "First, the committee should review the available evidence.",
+        "spanish": "Primero, el comité debería revisar la evidencia disponible.",
+        "spanish_spans": "Primero"
+      }
+    ],
+    "T002": [
+      {
+        "context_id": "T002-R1",
+        "target_id": "T002",
+        "english": "The proposal is affordable; in addition, it is easy to implement.",
+        "spanish": "La propuesta es económica; además, es fácil de implementar.",
+        "spanish_spans": "además"
+      },
+      {
+        "context_id": "T002-R2",
+        "target_id": "T002",
+        "english": "The program increased access and, in addition, reduced waiting times.",
+        "spanish": "El programa aumentó el acceso y, además, redujo los tiempos de espera.",
+        "spanish_spans": "además"
+      }
+    ],
+    "T003": [
+      {
+        "context_id": "T003-R1",
+        "target_id": "T003",
+        "english": "The idea is attractive; however, it would be difficult to fund.",
+        "spanish": "La idea es atractiva; sin embargo, sería difícil financiarla.",
+        "spanish_spans": "sin embargo"
+      },
+      {
+        "context_id": "T003-R2",
+        "target_id": "T003",
+        "english": "Participation increased; however, the gap between groups remained.",
+        "spanish": "La participación aumentó; sin embargo, la diferencia entre los grupos se mantuvo.",
+        "spanish_spans": "sin embargo"
+      }
+    ],
+    "T004": [
+      {
+        "context_id": "T004-R1",
+        "target_id": "T004",
+        "english": "The bus arrived late, so I missed the first part of the meeting.",
+        "spanish": "El autobús llegó tarde; por eso, me perdí la primera parte de la reunión.",
+        "spanish_spans": "por eso"
+      },
+      {
+        "context_id": "T004-R2",
+        "target_id": "T004",
+        "english": "The instructions were unclear; because of that, several people made the same mistake.",
+        "spanish": "Las instrucciones no estaban claras; por eso, varias personas cometieron el mismo error.",
+        "spanish_spans": "por eso"
+      }
+    ],
+    "T005": [
+      {
+        "context_id": "T005-R1",
+        "target_id": "T005",
+        "english": "The demand has increased considerably; therefore, the organization needs more staff.",
+        "spanish": "La demanda ha aumentado considerablemente; por lo tanto, la organización necesita más personal.",
+        "spanish_spans": "por lo tanto"
+      },
+      {
+        "context_id": "T005-R2",
+        "target_id": "T005",
+        "english": "The first approach did not solve the problem; therefore, we should consider another option.",
+        "spanish": "El primer enfoque no resolvió el problema; por lo tanto, deberíamos considerar otra opción.",
+        "spanish_spans": "por lo tanto"
+      }
+    ],
+    "T006": [
+      {
+        "context_id": "T006-R1",
+        "target_id": "T006",
+        "english": "The service is technically available but difficult to use; in other words, access remains limited.",
+        "spanish": "El servicio está técnicamente disponible, pero es difícil de usar; en otras palabras, el acceso sigue siendo limitado.",
+        "spanish_spans": "en otras palabras"
+      },
+      {
+        "context_id": "T006-R2",
+        "target_id": "T006",
+        "english": "The change reduced one type of cost while increasing another; in other words, the tradeoff remains.",
+        "spanish": "El cambio redujo un tipo de costo y aumentó otro; en otras palabras, el dilema sigue existiendo.",
+        "spanish_spans": "en otras palabras"
+      }
+    ],
+    "T007": [
+      {
+        "context_id": "T007-R1",
+        "target_id": "T007",
+        "english": "At first, I thought the change would be temporary.",
+        "spanish": "Al principio, pensé que el cambio sería temporal.",
+        "spanish_spans": "Al principio"
+      },
+      {
+        "context_id": "T007-R2",
+        "target_id": "T007",
+        "english": "At first, the project attracted very little attention.",
+        "spanish": "Al principio, el proyecto llamó muy poco la atención.",
+        "spanish_spans": "Al principio"
+      }
+    ],
+    "T008": [
+      {
+        "context_id": "T008-R1",
+        "target_id": "T008",
+        "english": "At that moment, we did not have enough information to decide.",
+        "spanish": "En aquel momento, no teníamos suficiente información para decidir.",
+        "spanish_spans": "En aquel momento"
+      },
+      {
+        "context_id": "T008-R2",
+        "target_id": "T008",
+        "english": "At that moment, the long-term consequences were impossible to predict.",
+        "spanish": "En aquel momento, era imposible prever las consecuencias a largo plazo.",
+        "spanish_spans": "En aquel momento"
+      }
+    ],
+    "T009": [
+      {
+        "context_id": "T009-R1",
+        "target_id": "T009",
+        "english": "Since then, the organization has changed how it communicates with the public.",
+        "spanish": "Desde entonces, la organización ha cambiado la manera de comunicarse con el público.",
+        "spanish_spans": "Desde entonces"
+      },
+      {
+        "context_id": "T009-R2",
+        "target_id": "T009",
+        "english": "Since then, I have paid more attention to the assumptions behind the argument.",
+        "spanish": "Desde entonces, he prestado más atención a los supuestos del argumento.",
+        "spanish_spans": "Desde entonces"
+      }
+    ],
+    "T010": [
+      {
+        "context_id": "T010-R1",
+        "target_id": "T010",
+        "english": "Over time, the differences between the two groups became clearer.",
+        "spanish": "Con el tiempo, las diferencias entre los dos grupos se hicieron más claras.",
+        "spanish_spans": "Con el tiempo"
+      },
+      {
+        "context_id": "T010-R2",
+        "target_id": "T010",
+        "english": "Over time, the policy became easier to administer.",
+        "spanish": "Con el tiempo, la política se volvió más fácil de administrar.",
+        "spanish_spans": "Con el tiempo"
+      }
+    ],
+    "T011": [
+      {
+        "context_id": "T011-R1",
+        "target_id": "T011",
+        "english": "From now on, we will evaluate both the immediate and long-term effects.",
+        "spanish": "A partir de ahora, evaluaremos tanto los efectos inmediatos como los de largo plazo.",
+        "spanish_spans": "A partir de ahora"
+      },
+      {
+        "context_id": "T011-R2",
+        "target_id": "T011",
+        "english": "From now on, the department will publish the results every semester.",
+        "spanish": "A partir de ahora, el departamento publicará los resultados cada semestre.",
+        "spanish_spans": "A partir de ahora"
+      }
+    ],
+    "T012": [
+      {
+        "context_id": "T012-R1",
+        "target_id": "T012",
+        "english": "Later on, we can discuss whether the same approach would work elsewhere.",
+        "spanish": "Más adelante, podemos discutir si el mismo enfoque funcionaría en otros lugares.",
+        "spanish_spans": "Más adelante"
+      },
+      {
+        "context_id": "T012-R2",
+        "target_id": "T012",
+        "english": "Later on, the project may require a different funding model.",
+        "spanish": "Más adelante, el proyecto puede requerir un modelo de financiación diferente.",
+        "spanish_spans": "Más adelante"
+      }
+    ],
+    "T013": [
+      {
+        "context_id": "T013-R1",
+        "target_id": "T013",
+        "english": "I mean the way the policy is applied, not the policy itself.",
+        "spanish": "Me refiero a la manera en que se aplica la política, no a la política en sí.",
+        "spanish_spans": "Me refiero a"
+      },
+      {
+        "context_id": "T013-R2",
+        "target_id": "T013",
+        "english": "By access, I mean the ability to use the service without additional barriers.",
+        "spanish": "Por acceso, me refiero a la posibilidad de usar el servicio sin barreras adicionales.",
+        "spanish_spans": "me refiero a"
+      }
+    ],
+    "T014": [
+      {
+        "context_id": "T014-R1",
+        "target_id": "T014",
+        "english": "It is a kind of agreement that establishes the basic rules.",
+        "spanish": "Es una especie de acuerdo que establece las reglas básicas.",
+        "spanish_spans": "Es una especie de"
+      },
+      {
+        "context_id": "T014-R2",
+        "target_id": "T014",
+        "english": "It is a kind of digital archive where the records are stored.",
+        "spanish": "Es una especie de archivo digital donde se guardan los registros.",
+        "spanish_spans": "Es una especie de"
+      }
+    ],
+    "T015": [
+      {
+        "context_id": "T015-R1",
+        "target_id": "T015",
+        "english": "It is used to compare changes across several years.",
+        "spanish": "Sirve para comparar los cambios a lo largo de varios años.",
+        "spanish_spans": "Sirve para"
+      },
+      {
+        "context_id": "T015-R2",
+        "target_id": "T015",
+        "english": "This tool is used to identify patterns in the data.",
+        "spanish": "Esta herramienta sirve para identificar patrones en los datos.",
+        "spanish_spans": "sirve para"
+      }
+    ],
+    "T016": [
+      {
+        "context_id": "T016-R1",
+        "target_id": "T016",
+        "english": "It involves a problem that affects several parts of the system.",
+        "spanish": "Se trata de un problema que afecta a varias partes del sistema.",
+        "spanish_spans": "Se trata de"
+      },
+      {
+        "context_id": "T016-R2",
+        "target_id": "T016",
+        "english": "It is about finding a balance between flexibility and stability.",
+        "spanish": "Se trata de encontrar un equilibrio entre la flexibilidad y la estabilidad.",
+        "spanish_spans": "Se trata de"
+      }
+    ],
+    "T017": [
+      {
+        "context_id": "T017-R1",
+        "target_id": "T017",
+        "english": "What I mean is that the result depends on how the measure is implemented.",
+        "spanish": "Lo que quiero decir es que el resultado depende de cómo se implemente la medida.",
+        "spanish_spans": "Lo que quiero decir es"
+      },
+      {
+        "context_id": "T017-R2",
+        "target_id": "T017",
+        "english": "What I mean is that the two explanations are compatible rather than contradictory.",
+        "spanish": "Lo que quiero decir es que las dos explicaciones son compatibles y no contradictorias.",
+        "spanish_spans": "Lo que quiero decir es"
+      }
+    ],
+    "T018": [
+      {
+        "context_id": "T018-R1",
+        "target_id": "T018",
+        "english": "More specifically, the change affected workers with irregular schedules.",
+        "spanish": "Más concretamente, el cambio afectó a los trabajadores con horarios irregulares.",
+        "spanish_spans": "Más concretamente"
+      },
+      {
+        "context_id": "T018-R2",
+        "target_id": "T018",
+        "english": "More specifically, the problem appears in the second phase of the process.",
+        "spanish": "Más concretamente, el problema aparece en la segunda fase del proceso.",
+        "spanish_spans": "Más concretamente"
+      }
+    ],
+    "T019": [
+      {
+        "context_id": "T019-R1",
+        "target_id": "T019",
+        "english": "The meeting was postponed due to a lack of information.",
+        "spanish": "La reunión se aplazó debido a la falta de información.",
+        "spanish_spans": "debido a"
+      },
+      {
+        "context_id": "T019-R2",
+        "target_id": "T019",
+        "english": "Participation fell due to the increase in transportation costs.",
+        "spanish": "La participación disminuyó debido al aumento de los costos de transporte.",
+        "spanish_spans": "debido a"
+      }
+    ],
+    "T020": [
+      {
+        "context_id": "T020-R1",
+        "target_id": "T020",
+        "english": "Several services were interrupted because of the storm.",
+        "spanish": "Varios servicios se interrumpieron a causa de la tormenta.",
+        "spanish_spans": "a causa de"
+      },
+      {
+        "context_id": "T020-R2",
+        "target_id": "T020",
+        "english": "The project changed direction because of unexpected budget cuts.",
+        "spanish": "El proyecto cambió de rumbo a causa de recortes presupuestarios inesperados.",
+        "spanish_spans": "a causa de"
+      }
+    ],
+    "T021": [
+      {
+        "context_id": "T021-R1",
+        "target_id": "T021",
+        "english": "This is due to differences in how the two groups use the service.",
+        "spanish": "Esto se debe a diferencias en la manera en que los dos grupos utilizan el servicio.",
+        "spanish_spans": "Esto se debe a"
+      },
+      {
+        "context_id": "T021-R2",
+        "target_id": "T021",
+        "english": "This is due to the fact that the original estimate was too optimistic.",
+        "spanish": "Esto se debe a que la estimación original era demasiado optimista.",
+        "spanish_spans": "Esto se debe a"
+      }
+    ],
+    "T022": [
+      {
+        "context_id": "T022-R1",
+        "target_id": "T022",
+        "english": "The cost increased; as a consequence, demand fell.",
+        "spanish": "El costo aumentó; como consecuencia, disminuyó la demanda.",
+        "spanish_spans": "como consecuencia"
+      },
+      {
+        "context_id": "T022-R2",
+        "target_id": "T022",
+        "english": "The schedule became less flexible; as a consequence, some employees left the program.",
+        "spanish": "El horario se volvió menos flexible; como consecuencia, algunos empleados abandonaron el programa.",
+        "spanish_spans": "como consecuencia"
+      }
+    ],
+    "T023": [
+      {
+        "context_id": "T023-R1",
+        "target_id": "T023",
+        "english": "The evidence is incomplete; consequently, the conclusion should remain tentative.",
+        "spanish": "La evidencia está incompleta; por consiguiente, la conclusión debería ser provisional.",
+        "spanish_spans": "por consiguiente"
+      },
+      {
+        "context_id": "T023-R2",
+        "target_id": "T023",
+        "english": "The two measures produced different effects; consequently, they should not be evaluated in the same way.",
+        "spanish": "Las dos medidas produjeron efectos distintos; por consiguiente, no deberían evaluarse de la misma manera.",
+        "spanish_spans": "por consiguiente"
+      }
+    ],
+    "T024": [
+      {
+        "context_id": "T024-R1",
+        "target_id": "T024",
+        "english": "A small delay can lead to much larger problems later.",
+        "spanish": "Un pequeño retraso puede llevar a problemas mucho mayores más adelante.",
+        "spanish_spans": "llevar a"
+      },
+      {
+        "context_id": "T024-R2",
+        "target_id": "T024",
+        "english": "Unequal access can lead to differences in long-term outcomes.",
+        "spanish": "El acceso desigual puede llevar a diferencias en los resultados a largo plazo.",
+        "spanish_spans": "llevar a"
+      }
+    ],
+    "T025": [
+      {
+        "context_id": "T025-R1",
+        "target_id": "T025",
+        "english": "Although the evidence is limited, the pattern is worth examining.",
+        "spanish": "Aunque la evidencia es limitada, vale la pena examinar el patrón.",
+        "spanish_spans": "Aunque"
+      },
+      {
+        "context_id": "T025-R2",
+        "target_id": "T025",
+        "english": "Although the plan would save money, it could reduce access.",
+        "spanish": "Aunque el plan ahorraría dinero, podría reducir el acceso.",
+        "spanish_spans": "Aunque"
+      }
+    ],
+    "T026": [
+      {
+        "context_id": "T026-R1",
+        "target_id": "T026",
+        "english": "The process is expensive; even so, it may be worth continuing.",
+        "spanish": "El proceso es caro; aun así, puede valer la pena continuarlo.",
+        "spanish_spans": "aun así"
+      },
+      {
+        "context_id": "T026-R2",
+        "target_id": "T026",
+        "english": "The sample is relatively small; even so, the results are informative.",
+        "spanish": "La muestra es relativamente pequeña; aun así, los resultados son informativos.",
+        "spanish_spans": "aun así"
+      }
+    ],
+    "T027": [
+      {
+        "context_id": "T027-R1",
+        "target_id": "T027",
+        "english": "The first group improved quickly, whereas the second improved more gradually.",
+        "spanish": "El primer grupo mejoró rápidamente, mientras que el segundo mejoró de forma más gradual.",
+        "spanish_spans": "mientras que"
+      },
+      {
+        "context_id": "T027-R2",
+        "target_id": "T027",
+        "english": "One policy emphasizes access, whereas the other focuses on cost.",
+        "spanish": "Una política enfatiza el acceso, mientras que la otra se centra en el costo.",
+        "spanish_spans": "mientras que"
+      }
+    ],
+    "T028": [
+      {
+        "context_id": "T028-R1",
+        "target_id": "T028",
+        "english": "The urban program expanded; by contrast, the rural program became smaller.",
+        "spanish": "El programa urbano se amplió; en cambio, el programa rural se redujo.",
+        "spanish_spans": "en cambio"
+      },
+      {
+        "context_id": "T028-R2",
+        "target_id": "T028",
+        "english": "Some participants preferred more structure; by contrast, others wanted greater flexibility.",
+        "spanish": "Algunos participantes preferían más estructura; en cambio, otros querían mayor flexibilidad.",
+        "spanish_spans": "en cambio"
+      }
+    ],
+    "T029": [
+      {
+        "context_id": "T029-R1",
+        "target_id": "T029",
+        "english": "On one hand, the proposal would reduce costs; on the other, it could limit access.",
+        "spanish": "Por un lado, la propuesta reduciría los costos; por otro lado, podría limitar el acceso.",
+        "spanish_spans": "Por un lado|por otro lado"
+      },
+      {
+        "context_id": "T029-R2",
+        "target_id": "T029",
+        "english": "On one hand, the change creates flexibility; on the other hand, it makes planning more difficult.",
+        "spanish": "Por un lado, el cambio crea flexibilidad; por otro lado, dificulta la planificación.",
+        "spanish_spans": "Por un lado|por otro lado"
+      }
+    ],
+    "T030": [
+      {
+        "context_id": "T030-R1",
+        "target_id": "T030",
+        "english": "The policy affects not only students but also the people who support them.",
+        "spanish": "La política afecta no solo a los estudiantes, sino también a las personas que los apoyan.",
+        "spanish_spans": "no solo|sino también"
+      },
+      {
+        "context_id": "T030-R2",
+        "target_id": "T030",
+        "english": "The change not only reduced costs but also simplified the process.",
+        "spanish": "El cambio no solo redujo los costos, sino que también simplificó el proceso.",
+        "spanish_spans": "no solo|sino que también"
+      }
+    ],
+    "T031": [
+      {
+        "context_id": "T031-R1",
+        "target_id": "T031",
+        "english": "The report that we discussed yesterday raises an important question.",
+        "spanish": "El informe que comentamos ayer plantea una pregunta importante.",
+        "spanish_spans": "que"
+      },
+      {
+        "context_id": "T031-R2",
+        "target_id": "T031",
+        "english": "The strategy that the organization adopted has produced mixed results.",
+        "spanish": "La estrategia que adoptó la organización ha producido resultados mixtos.",
+        "spanish_spans": "que"
+      }
+    ],
+    "T032": [
+      {
+        "context_id": "T032-R1",
+        "target_id": "T032",
+        "english": "The neighborhood where the program began has changed considerably.",
+        "spanish": "El barrio donde comenzó el programa ha cambiado considerablemente.",
+        "spanish_spans": "donde"
+      },
+      {
+        "context_id": "T032-R2",
+        "target_id": "T032",
+        "english": "We visited the center where the data are collected.",
+        "spanish": "Visitamos el centro donde se recopilan los datos.",
+        "spanish_spans": "donde"
+      }
+    ],
+    "T033": [
+      {
+        "context_id": "T033-R1",
+        "target_id": "T033",
+        "english": "Those who need additional support can request it online.",
+        "spanish": "Quienes necesitan apoyo adicional pueden solicitarlo por internet.",
+        "spanish_spans": "Quienes"
+      },
+      {
+        "context_id": "T033-R2",
+        "target_id": "T033",
+        "english": "Those who work irregular hours face different challenges.",
+        "spanish": "Quienes trabajan con horarios irregulares enfrentan dificultades diferentes.",
+        "spanish_spans": "Quienes"
+      }
+    ],
+    "T034": [
+      {
+        "context_id": "T034-R1",
+        "target_id": "T034",
+        "english": "What concerns me most is the lack of long-term planning.",
+        "spanish": "Lo que más me preocupa es la falta de planificación a largo plazo.",
+        "spanish_spans": "Lo que"
+      },
+      {
+        "context_id": "T034-R2",
+        "target_id": "T034",
+        "english": "What changed was not the goal but the way the program was organized.",
+        "spanish": "Lo que cambió no fue el objetivo, sino la manera de organizar el programa.",
+        "spanish_spans": "Lo que"
+      }
+    ],
+    "T035": [
+      {
+        "context_id": "T035-R1",
+        "target_id": "T035",
+        "english": "The budget was reduced again, which created additional delays.",
+        "spanish": "El presupuesto volvió a reducirse, lo cual generó retrasos adicionales.",
+        "spanish_spans": "lo cual"
+      },
+      {
+        "context_id": "T035-R2",
+        "target_id": "T035",
+        "english": "The two groups received different information, which may explain part of the difference.",
+        "spanish": "Los dos grupos recibieron información diferente, lo cual puede explicar parte de la diferencia.",
+        "spanish_spans": "lo cual"
+      }
+    ],
+    "T036": [
+      {
+        "context_id": "T036-R1",
+        "target_id": "T036",
+        "english": "I spoke with a researcher whose work focuses on access to education.",
+        "spanish": "Hablé con una investigadora cuyo trabajo se centra en el acceso a la educación.",
+        "spanish_spans": "cuyo"
+      },
+      {
+        "context_id": "T036-R2",
+        "target_id": "T036",
+        "english": "They evaluated a program whose main goal is to reduce inequality.",
+        "spanish": "Evaluaron un programa cuyo objetivo principal es reducir la desigualdad.",
+        "spanish_spans": "cuyo"
+      }
+    ],
+    "T037": [
+      {
+        "context_id": "T037-R1",
+        "target_id": "T037",
+        "english": "One can interpret the result in several ways.",
+        "spanish": "Se puede interpretar el resultado de varias maneras.",
+        "spanish_spans": "Se puede"
+      },
+      {
+        "context_id": "T037-R2",
+        "target_id": "T037",
+        "english": "One can see the effect more clearly when the groups are compared separately.",
+        "spanish": "Se puede ver el efecto con más claridad cuando se comparan los grupos por separado.",
+        "spanish_spans": "Se puede"
+      }
+    ],
+    "T038": [
+      {
+        "context_id": "T038-R1",
+        "target_id": "T038",
+        "english": "People tend to focus on the immediate cost rather than the long-term benefit.",
+        "spanish": "Se suele prestar atención al costo inmediato más que al beneficio a largo plazo.",
+        "spanish_spans": "Se suele"
+      },
+      {
+        "context_id": "T038-R2",
+        "target_id": "T038",
+        "english": "This type of problem is usually discussed in economic terms.",
+        "spanish": "Este tipo de problema se suele discutir en términos económicos.",
+        "spanish_spans": "se suele"
+      }
+    ],
+    "T039": [
+      {
+        "context_id": "T039-R1",
+        "target_id": "T039",
+        "english": "The program is considered successful despite several limitations.",
+        "spanish": "El programa se considera exitoso a pesar de varias limitaciones.",
+        "spanish_spans": "se considera"
+      },
+      {
+        "context_id": "T039-R2",
+        "target_id": "T039",
+        "english": "Access to reliable information is considered essential.",
+        "spanish": "El acceso a información fiable se considera esencial.",
+        "spanish_spans": "se considera"
+      }
+    ],
+    "T040": [
+      {
+        "context_id": "T040-R1",
+        "target_id": "T040",
+        "english": "The effect tends to be stronger among younger participants.",
+        "spanish": "El efecto tiende a ser más fuerte entre los participantes más jóvenes.",
+        "spanish_spans": "tiende a"
+      },
+      {
+        "context_id": "T040-R2",
+        "target_id": "T040",
+        "english": "The discussion tends to focus on individual decisions.",
+        "spanish": "La discusión tiende a centrarse en las decisiones individuales.",
+        "spanish_spans": "tiende a"
+      }
+    ],
+    "T041": [
+      {
+        "context_id": "T041-R1",
+        "target_id": "T041",
+        "english": "In general, the results support a cautious interpretation.",
+        "spanish": "En general, los resultados apoyan una interpretación prudente.",
+        "spanish_spans": "En general"
+      },
+      {
+        "context_id": "T041-R2",
+        "target_id": "T041",
+        "english": "In general, people adapt more easily when the change is introduced gradually.",
+        "spanish": "En general, la gente se adapta con más facilidad cuando el cambio se introduce gradualmente.",
+        "spanish_spans": "En general"
+      }
+    ],
+    "T042": [
+      {
+        "context_id": "T042-R1",
+        "target_id": "T042",
+        "english": "There are those who argue that the change does not go far enough.",
+        "spanish": "Hay quienes sostienen que el cambio no llega lo suficientemente lejos.",
+        "spanish_spans": "Hay quienes"
+      },
+      {
+        "context_id": "T042-R2",
+        "target_id": "T042",
+        "english": "There are those who prefer to wait for more evidence before deciding.",
+        "spanish": "Hay quienes prefieren esperar más evidencia antes de decidir.",
+        "spanish_spans": "Hay quienes"
+      }
+    ],
+    "T043": [
+      {
+        "context_id": "T043-R1",
+        "target_id": "T043",
+        "english": "From my point of view, the main weakness is the lack of follow-up.",
+        "spanish": "Desde mi punto de vista, la principal debilidad es la falta de seguimiento.",
+        "spanish_spans": "Desde mi punto de vista"
+      },
+      {
+        "context_id": "T043-R2",
+        "target_id": "T043",
+        "english": "From my point of view, the benefits justify the additional cost.",
+        "spanish": "Desde mi punto de vista, los beneficios justifican el costo adicional.",
+        "spanish_spans": "Desde mi punto de vista"
+      }
+    ],
+    "T044": [
+      {
+        "context_id": "T044-R1",
+        "target_id": "T044",
+        "english": "To a certain extent, the two positions are compatible.",
+        "spanish": "Hasta cierto punto, las dos posturas son compatibles.",
+        "spanish_spans": "Hasta cierto punto"
+      },
+      {
+        "context_id": "T044-R2",
+        "target_id": "T044",
+        "english": "To a certain extent, the outcome depends on factors outside the program's control.",
+        "spanish": "Hasta cierto punto, el resultado depende de factores que están fuera del control del programa.",
+        "spanish_spans": "Hasta cierto punto"
+      }
+    ],
+    "T045": [
+      {
+        "context_id": "T045-R1",
+        "target_id": "T045",
+        "english": "The success of the project depends largely on local support.",
+        "spanish": "El éxito del proyecto depende en gran medida del apoyo local.",
+        "spanish_spans": "en gran medida"
+      },
+      {
+        "context_id": "T045-R2",
+        "target_id": "T045",
+        "english": "The difference can be explained largely by the timing of the change.",
+        "spanish": "La diferencia se puede explicar en gran medida por el momento en que se produjo el cambio.",
+        "spanish_spans": "en gran medida"
+      }
+    ],
+    "T046": [
+      {
+        "context_id": "T046-R1",
+        "target_id": "T046",
+        "english": "A higher cost does not necessarily mean a better service.",
+        "spanish": "Un costo más alto no significa necesariamente un mejor servicio.",
+        "spanish_spans": "necesariamente"
+      },
+      {
+        "context_id": "T046-R2",
+        "target_id": "T046",
+        "english": "More information does not necessarily lead to better decisions.",
+        "spanish": "Más información no conduce necesariamente a mejores decisiones.",
+        "spanish_spans": "necesariamente"
+      }
+    ],
+    "T047": [
+      {
+        "context_id": "T047-R1",
+        "target_id": "T047",
+        "english": "The best solution depends on the resources available.",
+        "spanish": "La mejor solución depende de los recursos disponibles.",
+        "spanish_spans": "depende de"
+      },
+      {
+        "context_id": "T047-R2",
+        "target_id": "T047",
+        "english": "Whether the policy works depends on how consistently it is applied.",
+        "spanish": "Que la política funcione depende de la constancia con que se aplique.",
+        "spanish_spans": "depende de"
+      }
+    ],
+    "T048": [
+      {
+        "context_id": "T048-R1",
+        "target_id": "T048",
+        "english": "The change will probably affect some regions more than others.",
+        "spanish": "El cambio probablemente afectará más a unas regiones que a otras.",
+        "spanish_spans": "probablemente"
+      },
+      {
+        "context_id": "T048-R2",
+        "target_id": "T048",
+        "english": "The difference will probably become clearer over time.",
+        "spanish": "La diferencia probablemente se hará más clara con el tiempo.",
+        "spanish_spans": "probablemente"
+      }
+    ],
+    "T049": [
+      {
+        "context_id": "T049-R1",
+        "target_id": "T049",
+        "english": "According to the survey, most participants preferred the second option.",
+        "spanish": "Según la encuesta, la mayoría de los participantes prefirió la segunda opción.",
+        "spanish_spans": "Según"
+      },
+      {
+        "context_id": "T049-R2",
+        "target_id": "T049",
+        "english": "According to the latest report, costs have stabilized.",
+        "spanish": "Según el último informe, los costos se han estabilizado.",
+        "spanish_spans": "Según"
+      }
+    ],
+    "T050": [
+      {
+        "context_id": "T050-R1",
+        "target_id": "T050",
+        "english": "The author points out that the comparison has an important limitation.",
+        "spanish": "La autora señala que la comparación tiene una limitación importante.",
+        "spanish_spans": "señala que"
+      },
+      {
+        "context_id": "T050-R2",
+        "target_id": "T050",
+        "english": "The report points out that access varies considerably by region.",
+        "spanish": "El informe señala que el acceso varía considerablemente según la región.",
+        "spanish_spans": "señala que"
+      }
+    ],
+    "T051": [
+      {
+        "context_id": "T051-R1",
+        "target_id": "T051",
+        "english": "The graph shows that the gap narrowed after the policy changed.",
+        "spanish": "El gráfico muestra que la diferencia se redujo después del cambio de política.",
+        "spanish_spans": "muestra que"
+      },
+      {
+        "context_id": "T051-R2",
+        "target_id": "T051",
+        "english": "The evidence shows that the effect is not the same for every group.",
+        "spanish": "La evidencia muestra que el efecto no es igual para todos los grupos.",
+        "spanish_spans": "muestra que"
+      }
+    ],
+    "T052": [
+      {
+        "context_id": "T052-R1",
+        "target_id": "T052",
+        "english": "The pattern suggests that timing may be an important factor.",
+        "spanish": "El patrón sugiere que el momento puede ser un factor importante.",
+        "spanish_spans": "sugiere que"
+      },
+      {
+        "context_id": "T052-R2",
+        "target_id": "T052",
+        "english": "The result suggests that the original explanation was incomplete.",
+        "spanish": "El resultado sugiere que la explicación original era incompleta.",
+        "spanish_spans": "sugiere que"
+      }
+    ],
+    "T053": [
+      {
+        "context_id": "T053-R1",
+        "target_id": "T053",
+        "english": "Based on these observations, we can formulate a more precise question.",
+        "spanish": "A partir de estas observaciones, podemos formular una pregunta más precisa.",
+        "spanish_spans": "A partir de"
+      },
+      {
+        "context_id": "T053-R2",
+        "target_id": "T053",
+        "english": "Based on the available evidence, it is difficult to make a strong prediction.",
+        "spanish": "A partir de la evidencia disponible, es difícil hacer una predicción firme.",
+        "spanish_spans": "A partir de"
+      }
+    ],
+    "T054": [
+      {
+        "context_id": "T054-R1",
+        "target_id": "T054",
+        "english": "Put another way, the program expanded without becoming equally accessible.",
+        "spanish": "Dicho de otro modo, el programa se amplió sin volverse igualmente accesible.",
+        "spanish_spans": "Dicho de otro modo"
+      },
+      {
+        "context_id": "T054-R2",
+        "target_id": "T054",
+        "english": "Put another way, the two groups reached the same result by different paths.",
+        "spanish": "Dicho de otro modo, los dos grupos llegaron al mismo resultado por caminos diferentes.",
+        "spanish_spans": "Dicho de otro modo"
+      }
+    ],
+    "T055": [
+      {
+        "context_id": "T055-R1",
+        "target_id": "T055",
+        "english": "If this trend continues, the gap between the two groups could grow.",
+        "spanish": "Si esta tendencia continúa, la diferencia entre los dos grupos podría aumentar.",
+        "spanish_spans": "Si esta tendencia continúa"
+      },
+      {
+        "context_id": "T055-R2",
+        "target_id": "T055",
+        "english": "If this trend continues, the current system may become difficult to sustain.",
+        "spanish": "Si esta tendencia continúa, el sistema actual podría volverse difícil de mantener.",
+        "spanish_spans": "Si esta tendencia continúa"
+      }
+    ],
+    "T056": [
+      {
+        "context_id": "T056-R1",
+        "target_id": "T056",
+        "english": "In theory, the new system should make the process more transparent.",
+        "spanish": "En teoría, el nuevo sistema debería hacer el proceso más transparente.",
+        "spanish_spans": "En teoría"
+      },
+      {
+        "context_id": "T056-R2",
+        "target_id": "T056",
+        "english": "In theory, both approaches could produce similar results.",
+        "spanish": "En teoría, ambos enfoques podrían producir resultados parecidos.",
+        "spanish_spans": "En teoría"
+      }
+    ],
+    "T057": [
+      {
+        "context_id": "T057-R1",
+        "target_id": "T057",
+        "english": "The change could create new opportunities for smaller communities.",
+        "spanish": "El cambio podría crear nuevas oportunidades para las comunidades más pequeñas.",
+        "spanish_spans": "podría"
+      },
+      {
+        "context_id": "T057-R2",
+        "target_id": "T057",
+        "english": "A different sampling strategy could produce a more representative result.",
+        "spanish": "Una estrategia de muestreo diferente podría producir un resultado más representativo.",
+        "spanish_spans": "podría"
+      }
+    ],
+    "T058": [
+      {
+        "context_id": "T058-R1",
+        "target_id": "T058",
+        "english": "In the short term, the reform may create additional costs.",
+        "spanish": "A corto plazo, la reforma puede generar costos adicionales.",
+        "spanish_spans": "A corto plazo"
+      },
+      {
+        "context_id": "T058-R2",
+        "target_id": "T058",
+        "english": "In the short term, the organization will need more staff.",
+        "spanish": "A corto plazo, la organización necesitará más personal.",
+        "spanish_spans": "A corto plazo"
+      }
+    ],
+    "T059": [
+      {
+        "context_id": "T059-R1",
+        "target_id": "T059",
+        "english": "In the long term, the investment could reduce operating costs.",
+        "spanish": "A largo plazo, la inversión podría reducir los costos operativos.",
+        "spanish_spans": "A largo plazo"
+      },
+      {
+        "context_id": "T059-R2",
+        "target_id": "T059",
+        "english": "In the long term, the policy may change how people use the service.",
+        "spanish": "A largo plazo, la política puede cambiar la manera en que la gente utiliza el servicio.",
+        "spanish_spans": "A largo plazo"
+      }
+    ],
+    "T060": [
+      {
+        "context_id": "T060-R1",
+        "target_id": "T060",
+        "english": "It is not about choosing the cheapest option, but the most sustainable one.",
+        "spanish": "No se trata de elegir la opción más barata, sino la más sostenible.",
+        "spanish_spans": "No se trata de"
+      },
+      {
+        "context_id": "T060-R2",
+        "target_id": "T060",
+        "english": "It is not about eliminating risk, but about managing it more effectively.",
+        "spanish": "No se trata de eliminar el riesgo, sino de gestionarlo de manera más eficaz.",
+        "spanish_spans": "No se trata de|sino de"
+      }
+    ]
+  }
+}
